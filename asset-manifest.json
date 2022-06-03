@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/stand-up-calendar/static/css/main.26245542.css",
-    "main.js": "/stand-up-calendar/static/js/main.a24e4b93.js",
+    "main.js": "/stand-up-calendar/static/js/main.74146bff.js",
     "index.html": "/stand-up-calendar/index.html",
     "main.26245542.css.map": "/stand-up-calendar/static/css/main.26245542.css.map",
-    "main.a24e4b93.js.map": "/stand-up-calendar/static/js/main.a24e4b93.js.map"
+    "main.74146bff.js.map": "/stand-up-calendar/static/js/main.74146bff.js.map"
   },
   "entrypoints": [
     "static/css/main.26245542.css",
-    "static/js/main.a24e4b93.js"
+    "static/js/main.74146bff.js"
   ]
 }
