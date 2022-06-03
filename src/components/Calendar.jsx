@@ -161,7 +161,7 @@ class Calendar extends React.Component {
       nameQuery.push(`${key}=${value.join(',')}`)
     }
     
-    return nameQuery.join('&')
+    return `https://henrynrocket.github.io/stand-up-calendar/?${nameQuery.join('&')}`
   }
 
   render() {

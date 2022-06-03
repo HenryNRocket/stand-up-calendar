@@ -85,7 +85,6 @@ class Participants extends React.Component {
         })
         const link = this.props.generateShareLink()
         navigator.clipboard.writeText(link)
-
         setTimeout(()=>{
             this.setState({
                 shareLink: 'Share Link!'
